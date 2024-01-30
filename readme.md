@@ -1,6 +1,6 @@
 # Homework one
 ## Instructions
-###iHello Professor
+###Hello Professor
 1. Install WSL2 with ubuntu
 2. Create a github account
 3. Create a folder for projects
