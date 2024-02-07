@@ -9,5 +9,4 @@
 
 1. pytest
 2. pytest --pylint
-3. pytest --pyline--co
-4.v
+3. pytest --pyline--cov
